@@ -1,0 +1,12 @@
+﻿<div>
+    @Html.ActionLink("Signout", "SignOut", "Account")
+</div>
+
+@{
+    ViewBag.Title = "Welcome";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Hi <b>@Context.User.Identity.Name</b>! Welcome to My first MVC 5 WebApp!</h2>
+
+

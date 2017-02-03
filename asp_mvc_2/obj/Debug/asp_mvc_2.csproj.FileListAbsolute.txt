@@ -1,0 +1,150 @@
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\ApplicationInsights.config
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\csc.exe
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\vbc.exe
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll.config
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.pdb
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\EntityFramework.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\EntityFramework.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.xml
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.dll
+c:\users\akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
+C:\Users\Akito\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.csprojResolveAssemblyReference.cache
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\ApplicationInsights.config
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\csc.exe
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\vbc.exe
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll.config
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.pdb
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.xml
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.csprojResolveAssemblyReference.cache
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.dll
+C:\Users\Akito\Documents\Visual Studio 2015\Projects\MODUL2\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\obj\Debug\asp_mvc_2.csprojResolveAssemblyReference.cache
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\obj\Debug\asp_mvc_2.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\ApplicationInsights.config
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\csc.exe
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\System.Collections.Immutable.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\System.Reflection.Metadata.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\vbc.exe
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe.config
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\asp_mvc_2.dll.config
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\asp_mvc_2.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\asp_mvc_2.pdb
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\EntityFramework.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\EntityFramework.SqlServer.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.Web.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.ApplicationInsights.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Helpers.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Mvc.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Razor.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Webpages.Deployment.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Webpages.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Webpages.Razor.dll
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\EntityFramework.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\EntityFramework.SqlServer.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.Web.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.ApplicationInsights.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Razor.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Webpages.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Webpages.Deployment.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Webpages.Razor.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Helpers.xml
+E:\UTAMA\E\XI R2\DESKTOP\MVC2\asp_mvc_2\bin\System.Web.Mvc.xml
