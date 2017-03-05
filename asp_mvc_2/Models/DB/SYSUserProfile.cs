@@ -25,5 +25,6 @@ namespace asp_mvc_2.Models.DB
         public Nullable<System.DateTime> RowModifiedDateTime { get; set; }
     
         public virtual SYSUser SYSUser { get; set; }
+        public virtual SYSUser SYSUser1 { get; set; }
     }
 }
